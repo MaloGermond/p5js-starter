@@ -1,0 +1,11 @@
+{
+  "name": "starter-p5js",
+  "version": "1.0.0",
+  "description": "a simple starter for quick creative work",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
